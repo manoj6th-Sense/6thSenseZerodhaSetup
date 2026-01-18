@@ -1,0 +1,22 @@
+# Secrets
+.env
+access_token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv

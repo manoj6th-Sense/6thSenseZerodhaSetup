@@ -1,0 +1,7 @@
+kiteconnect
+python-dotenv
+pyotp
+requests
+pandas
+notebook
+matplotlib
